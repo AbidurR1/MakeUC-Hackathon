@@ -1,5 +1,5 @@
 # Welcome to Sonic Pi
-# Sonic pi is acreative programming environemnt that lets you convert your code into music 
+# Sonic pi is a creative programming environemnt that lets you convert your code into music 
 
 live_loop :doodle do
   use_random_seed 1234
